@@ -1,0 +1,6 @@
+{
+  "name": "Typing Shooter Game",
+  "description": "เกมพิมพ์คำศัพท์ยิงยานศัตรูแนวอวกาศเรโทร (Retro Space Typing Shooter Game) ฝึกทักษะการพิมพ์คำศัพท์ภาษาอังกฤษ สนุก ตื่นเต้น พร้อมระบบเลเซอร์และเอฟเฟกต์สุดมันส์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
